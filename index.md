@@ -89,7 +89,8 @@ title: TurtleTurtle.org
 [Turtle Faucet](https://faucet.trtl.me) → Captcha Some Turtles  
 [Turtle Miner](http://turtleminer.com/) → Web Miner for TurtleCoin  
 [Turtle Nest GUI](https://github.com/turtlecoin/turtle-wallet-go)  
-[Turtle Python GUI](https://github.com/turtlecoin/turtle-wallet-python)  
+[Turtle Python GUI](https://github.com/turtlecoin/turtle-wallet-python)
+[Turtle Spin](http://trtlspin.com/ )  → Use your imagination
 [Turtle WinForms GUI](https://github.com/turtlecoin/turtle-wallet-winforms)  
 [TwitchTurtle](https://twitchturtle.com) → Streamlabs TurtleCoin integration  
 [TRTL CLI](https://github.com/turtlecoin/turtle-network-cli) → CLI tool to check TurtleCoin network status and community activity.  
@@ -106,7 +107,7 @@ title: TurtleTurtle.org
 ### Faucets
 [faucet.trtl.me](https://faucet.trtl.me) → krruzic's TurtleCoin Faucet  
 [rainsometurtles.xyz](https://rainsometurtles.xyz/) → RainsomeTurtles Faucet
-[turtlecoin-faucet.xhub.cloud](http://turtlecoin-faucet.xhub.cloud) → polar-it's TurtleCoin Faucet based on krruzic's code 
+[turtlecoin-faucet.xhub.cloud](http://turtlecoin-faucet.xhub.cloud) → polar-it's TurtleCoin Faucet based on krruzic's code
 
 ### Asset Trackers
 [CoinCodex](https://coincodex.com/crypto/turtlecoin/) → CoinCodex  

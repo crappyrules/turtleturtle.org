@@ -13,7 +13,9 @@ title: TurtleTurtle.org
 [turtlenode.online](https://turtlenode.online) → morpheus' public daemon service  
 [trtl-explorer.xhub.cloud](https://trtl-explorer.xhub.cloud) → polar-it's Block Explorer and public daemon service  
 [turtlenode.io](http://turtlenode.io) → Iburnmycd's public daemon service  
-[turtlenode.net](https://turtlenode.net) → Polar-it's European Public Daemon Service  
+[turtlenode.net](https://turtlenode.net) → Polar-it's European Public Daemon Service
+[turtlenode.gocrypto.ro](https://turtlenode.gocrypto.ro) → GoCrypto's (Romania) Public Daemon Service  
+
 
 ### Block Explorers
 [blocks.turtle.link](https://blocks.turtle.link) → Tom's Block Explorer and APIs  
@@ -43,7 +45,6 @@ title: TurtleTurtle.org
 
 ### Centralized Exchanges  
 [altex.exchange](https://altex.exchange/markets&pair=BTC_TRTL) → Altex Exchange  
-[maplechange.com](https://maplechange.com) → Maplechange  
 [tradeogre.com](https://tradeogre.com) → TradeOgre Exchange   
 [tradesatoshi.com](https://tradesatoshi.com/Exchange/?market=TRTL_BTC) → Tradesatoshi Exchange   
 
@@ -60,15 +61,18 @@ title: TurtleTurtle.org
 [trtl.heigh-ho.funkypenguin.co.nz](https://trtl.heigh-ho.funkypenguin.co.nz) → Funky Penguin's TRTL Stew Pool (New Zealand)  
 [trtl.mine2gether.com](http://trtl.mine2gether.com/) → Mine2gether  
 [trtl.proxpool.com](http://trtl.proxpool.com/) → Proxpool TRTL Mining Pool  
+[trtlcoinpool.tk](http://trtlcoinpool.tk/) → RU TurtlePool  
 [turtle.atpool.party](http://turtle.atpool.party/) → Sweden ATPool.party  
 [Turtle.Casa](https://turtle.casa/) → Close0ne Pool - Pool for Turtle.Land explorer  
 [turtle.coolmining.club](https://turtle.coolmining.club) → CoolMiningClub Turtle Pool Europe  
 [turtle.imhard4.men](http://turtle.imhard4.men/) → Turtlecoin Mining Pool  
 [turtle.minersunite.net](https://turtle.minersunite.net) → Minersunite Pool (Germany)  
 [turtle.psrcrypto.com](http://turtle.psrcrypto.com) → PSR CRYPTO's TRTL Pool  
+[turtlepool.ml](http://turtlepool.ml) → EUR TurtlePool  
 [turtlecoinpool.ddns.net](http://turtlecoinpool.ddns.net/) → DDNS TurtleCoinPool  
 [turtleminers.club](http://turtleminers.club) → Turtle Miners Club TRTL Pool (USA)  
 [us.turtlepool.space](http://us.turtlepool.space/) → USA TurtlePool  
+[trtl.cryptopool.space](https://trtl.cryptopool.space/) → Turtle CryptopPool.Space (World Wide)  
 
 ### Projects  
 [arch linux user package](https://aur.archlinux.org/packages/turtlecoin-git/) → wreiner's package of core for arch linux  
@@ -96,9 +100,13 @@ title: TurtleTurtle.org
 [TwitchTurtle](https://twitchturtle.com) → Streamlabs TurtleCoin integration  
 [WooTurtle](https://github.com/turtlecoin/woo-turtle) → WooCommerce TurtleCoin integration  
 
+### Merchants
+[trtl-store](https://trtl-store.com) → TurtleCoin merchandise - all prices in TRTL all payments in TRTL  
+
 ### Faucets
 [faucet.trtl.me](https://faucet.trtl.me) → krruzic's TurtleCoin Faucet  
-[turtlecoin-faucet.xhub.cloud](http://turtlecoin-faucet.xhub.cloud) → polar-it's TurtleCoin Faucet based on krruzic's code  
+[rainsometurtles.xyz](https://rainsometurtles.xyz/) → RainsomeTurtles Faucet
+[turtlecoin-faucet.xhub.cloud](http://turtlecoin-faucet.xhub.cloud) → polar-it's TurtleCoin Faucet based on krruzic's code 
 
 ### Asset Trackers
 [CoinCodex](https://coincodex.com/crypto/turtlecoin/) → CoinCodex  
@@ -113,5 +121,6 @@ title: TurtleTurtle.org
 [CryptoPricer](https://cryptopricer.net/currency/turtlecoin) → CryptoPricer  
 [LiveCoinWatch](https://www.livecoinwatch.com/price/TurtleCoin-TRTL) → LiveCoinWatch  
 [WorldCoinIndex](https://www.worldcoinindex.com/coin/turtlecoin) → WorldCoinIndex  
+
 ### Darkweb
 [trtljx3ovmd7kjlc.onion](http://trtljx3ovmd7kjlc.onion/) → Tor hidden service of this site  

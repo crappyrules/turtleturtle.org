@@ -65,7 +65,6 @@ title: TurtleTurtle.org
 [turtle.atpool.party](http://turtle.atpool.party/) → Sweden ATPool.party  
 [Turtle.Casa](https://turtle.casa/) → Close0ne Pool - Pool for Turtle.Land explorer  
 [turtle.coolmining.club](https://turtle.coolmining.club) → CoolMiningClub Turtle Pool Europe  
-[turtle.imhard4.men](http://turtle.imhard4.men/) → Turtlecoin Mining Pool  
 [turtle.minersunite.net](https://turtle.minersunite.net) → Minersunite Pool (Germany)  
 [turtle.psrcrypto.com](http://turtle.psrcrypto.com) → PSR CRYPTO's TRTL Pool  
 [turtlepool.ml](http://turtlepool.ml) → EUR TurtlePool  
@@ -121,6 +120,4 @@ title: TurtleTurtle.org
 [CryptoPricer](https://cryptopricer.net/currency/turtlecoin) → CryptoPricer  
 [LiveCoinWatch](https://www.livecoinwatch.com/price/TurtleCoin-TRTL) → LiveCoinWatch  
 [WorldCoinIndex](https://www.worldcoinindex.com/coin/turtlecoin) → WorldCoinIndex  
-
-### Darkweb
-[trtljx3ovmd7kjlc.onion](http://trtljx3ovmd7kjlc.onion/) → Tor hidden service of this site  
+ 

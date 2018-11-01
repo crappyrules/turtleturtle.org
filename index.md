@@ -10,10 +10,11 @@ title: TurtleTurtle.org
 [encrypted.turtlecoin.lol](https://keybase.io/turtlecoin) → Encrypted Chat & Public Keys  
 
 ### Public Daemons
+[turtleland.fun](http://turtleland.fun) → mrlahaye's public daemon service  
 [turtlenode.online](https://turtlenode.online) → morpheus' public daemon service  
 [trtl-explorer.xhub.cloud](https://trtl-explorer.xhub.cloud) → polar-it's Block Explorer and public daemon service  
 [turtlenode.io](http://turtlenode.io) → Iburnmycd's public daemon service  
-[turtlenode.net](https://turtlenode.net) → Polar-it's European Public Daemon Service
+[turtlenode.net](https://turtlenode.net) → Polar-it's European Public Daemon Service  
 [turtlenode.gocrypto.ro](https://turtlenode.gocrypto.ro) → GoCrypto's (Romania) Public Daemon Service  
 
 
@@ -94,8 +95,8 @@ title: TurtleTurtle.org
 [Turtle WinForms GUI](https://github.com/turtlecoin/turtle-wallet-winforms)  
 [TwitchTurtle](https://twitchturtle.com) → Streamlabs TurtleCoin integration  
 [TRTL CLI](https://github.com/turtlecoin/turtle-network-cli) → CLI tool to check TurtleCoin network status and community activity.  
-[shellnet.pw](https://shellnet.pw) → A web wallet for TurtleCoin payments
-[Shellmap](https://shellmap.mine2gether.com/) → A graphical interface of world wide earth bound nodes.
+[shellnet.pw](https://shellnet.pw) → A web wallet for TurtleCoin payments  
+[Shellmap](https://shellmap.mine2gether.com/) → A graphical interface of world wide earth bound nodes.  
 
 ### Payment Integrations
 [TwitchTurtle](https://twitchturtle.com) → Streamlabs TurtleCoin integration  
@@ -106,8 +107,8 @@ title: TurtleTurtle.org
 
 ### Faucets
 [faucet.trtl.me](https://faucet.trtl.me) → krruzic's TurtleCoin Faucet  
-[rainsometurtles.xyz](https://rainsometurtles.xyz/) → RainsomeTurtles Faucet
-[turtlecoin-faucet.xhub.cloud](http://turtlecoin-faucet.xhub.cloud) → polar-it's TurtleCoin Faucet based on krruzic's code
+[rainsometurtles.xyz](https://rainsometurtles.xyz/) → RainsomeTurtles Faucet  
+[turtlecoin-faucet.xhub.cloud](http://turtlecoin-faucet.xhub.cloud) → polar-it's TurtleCoin Faucet based on krruzic's code  
 
 ### Asset Trackers
 [CoinCodex](https://coincodex.com/crypto/turtlecoin/) → CoinCodex  
